@@ -1,0 +1,11 @@
+/Users/shimakento/Projects/ProgramingTest/obj/Debug/netcoreapp2.2/ProgramingTest.csprojAssemblyReference.cache
+/Users/shimakento/Projects/ProgramingTest/obj/Debug/netcoreapp2.2/ProgramingTest.csproj.CoreCompileInputs.cache
+/Users/shimakento/Projects/ProgramingTest/obj/Debug/netcoreapp2.2/ProgramingTest.AssemblyInfoInputs.cache
+/Users/shimakento/Projects/ProgramingTest/obj/Debug/netcoreapp2.2/ProgramingTest.AssemblyInfo.cs
+/Users/shimakento/Projects/ProgramingTest/bin/Debug/netcoreapp2.2/ProgramingTest.deps.json
+/Users/shimakento/Projects/ProgramingTest/bin/Debug/netcoreapp2.2/ProgramingTest.runtimeconfig.json
+/Users/shimakento/Projects/ProgramingTest/bin/Debug/netcoreapp2.2/ProgramingTest.runtimeconfig.dev.json
+/Users/shimakento/Projects/ProgramingTest/bin/Debug/netcoreapp2.2/ProgramingTest.dll
+/Users/shimakento/Projects/ProgramingTest/bin/Debug/netcoreapp2.2/ProgramingTest.pdb
+/Users/shimakento/Projects/ProgramingTest/obj/Debug/netcoreapp2.2/ProgramingTest.dll
+/Users/shimakento/Projects/ProgramingTest/obj/Debug/netcoreapp2.2/ProgramingTest.pdb
